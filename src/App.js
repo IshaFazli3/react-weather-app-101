@@ -6,7 +6,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="New York" />
+        <Weather defaultCity="Seattle" />
 
         <footer>
           This project was coded by{" "}
@@ -27,7 +27,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="/"
+            href="https://taupe-tulumba-be4a27.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
